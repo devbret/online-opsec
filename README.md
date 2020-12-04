@@ -151,7 +151,7 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 * **[Qubes OS](https://www.qubes-os.org/)** - "*...a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes.*"
 * **[Tails](https://tails.boum.org/)** - "*...is a portable operating system that protects against surveillance and censorship.*"
 * **[Ubuntu](https://ubuntu.com/)** - "*...a Linux distribution based on Debian and mostly composed of free and open-source software.*" - [Source](https://en.wikipedia.org/wiki/Ubuntu)
-* **[Whoinx](https://www.whonix.org/)** - "*...can anonymize everything you do online[.]*"
+* **[Whonix](https://www.whonix.org/)** - "*...can anonymize everything you do online[.]*"
 
 ### Passwords
 * **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
