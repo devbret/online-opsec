@@ -6,14 +6,14 @@ Threat models and tools for staying safe, private and informed while Online, use
 ## Introduction
 OpSec or Operations Security can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
 
-Online OpSec, in the context of Internet users, is quite a serious topic and best to be treated as such. In a way similar to how large companies carefully employ DevOps, individuals can apply Online OpSec; perhaps even more effectively and immediately. 
+Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their risks; perhaps even more effectively and immediately.
 
 The purpose of this document therefore is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
 
 ### Quintessentials
-Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states or conditions.
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human flourishing; those begin safety, privacy and remaining informed.
 
-The substance of this document can help the individual maintain their safety, privacy and access to information above other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean.
+The substance of this document can help the individual maintain these conditions above other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean.
 
 #### Safe
 To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*"
@@ -21,10 +21,14 @@ To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) 
 #### Private
 To be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/)) means to be, "*...let alone, or [to have] freedom from interference or intrusion.*"
 
+Online OpSec is relevant to the average person (as written by [Stuart Peck](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)) in terms of privacy as, "*There’s a saying that goes, “If you have nothing to hide, you have nothing to fear.” The reality is that everyone has something they want to hide from the general public.*" In other words, it is safe to assume that most people value privacy to some extent, and therefore must maintain is.
+
 #### Informed
 To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*"
 
-To be informed is to be aware of properties and their value(s).
+To be informed is to be aware of properties and their value(s); ideally within a single dashboard.
+
+The essence of remaining informed is the ability to quickly and flexibly scale one's awareness of whatever is of interest.
 
 ### Adversaries
 There are many different potential threats (to what is valued) faced by the average person, in terms of their/the Online reality. And these are also important to understand before diving into threat modeling and countermeasures.
@@ -44,9 +48,9 @@ The need to remain secure when using the Internet is relevant to everyone; regar
 Moving forward, threat models are covered first, followed by specific tools; ever reaching for that meta (yet granular) agency, an ideal state indeed.
 
 ## Threat Models
-A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible/foreseeable future dangers therein.
+A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate any potential damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible/foreseeable future dangers therein.
 
-The objective for deploying a threat model is to determine what can go wrong inside a given set of variables; enabling the modeler to gain tactical advantages that might have otherwise been missed from lack of perspective.
+The objective for deploying a threat model is to determine what can go wrong inside a given set of variables; providing the modeler tactical advantages that might have otherwise been missed from lack of perspective and preparation.
 
 Below you will find a growing number of threat modeling techniques that can be applied to anyone's situation Online.
 
@@ -61,6 +65,23 @@ There are seven stages involved in the PASTA model.
 1. Vulnerability And Weaknesses Analysis
 1. Attack Modeling 
 1. Risk And Impact Analysis
+
+#### Seven Phases
+The seven phases of PASTA explained.
+
+##### Define Objectives
+
+##### Define Technical Scope
+
+##### Application Decomposition
+
+##### Threat Analysis
+
+##### Vulnerability And Weaknesses Analysis
+
+##### Attack Modeling
+
+##### Risk And Impact Analysis
 
 The PASTA model (as mentioned by [Tony UV](https://2017.appsec.eu/presos/CISO/Threat%20Modeling%20with%20PASTA%20-%20Risk%20Centric%20Application%20Threat%20Modeling%20Case%20Studies%20-%20Tony%20UcedaV%C3%A9lez%20-%20OWASP_AppSec-Eu_2017.pdf)) is a, "*...flexible, phased approach for [the] adoption of... ...threat modeling[.]*"
 
@@ -162,8 +183,11 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 * **[Qwant](https://lite.qwant.com/)** - "*...is the first search engine which protects its users freedoms and ensures that the digital ecosystem remains healthy.*"
 * **[Searx](https://searx.me/)** - "*Privacy-respecting metasearch engine[.]*"
 * **[Startpage](https://www.startpage.com/)** - "*The world's most private search engine[.]*"
+* **[UserSearch.org](https://usersearch.org/index.php)** - "*Find anyone online[.]*"
 
 ### Social Media And Trend Monitoring
+The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*"
+
 * **[Boardreader](https://boardreader.com/)** - "*Forum search engine[.]*"
 * **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
 * **[Google Alerts](https://www.google.com/alerts)** - "*Monitor the web for interesting new content[.]*"
