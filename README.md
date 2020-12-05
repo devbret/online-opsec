@@ -4,16 +4,18 @@ Threat models and tools for staying safe, private and informed while Online, use
 *Until the first draft of this document is finished (sometime before 02/01/2021), it will be updated daily.*
 
 ## Introduction
-OpSec or Operations Security can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
+OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
 
-Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their risks; perhaps even more effectively and immediately.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too.
+
+Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately.
 
 The purpose of this document therefore is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
 
 ### Quintessentials
 Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human flourishing; those begin safety, privacy and remaining informed.
 
-The substance of this document can help the individual maintain these conditions above other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean.
+The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean.
 
 #### Safe
 To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*"
@@ -43,7 +45,7 @@ Technological dangers can include your computer being remotely accessed without 
 Economic dangers can include theft of digital currencies or loss of reputation.
 
 ### Relevancy
-The need to remain secure when using the Internet is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be relatively proactive to be effective citizens, Online or off.
+The need to remain secure when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be relatively proactive to be effective participants.
 
 Moving forward, threat models are covered first, followed by specific tools; ever reaching for that meta (yet granular) agency, an ideal state indeed.
 
@@ -52,7 +54,9 @@ A threat model is a structured and systematic means by which individuals can ide
 
 The objective for deploying a threat model is to determine what can go wrong inside a given set of variables; providing the modeler tactical advantages that might have otherwise been missed from lack of perspective and preparation.
 
-Below you will find a growing number of threat modeling techniques that can be applied to anyone's situation Online.
+There is an underlying or common pattern among many threat models, generally consisting of five interrelated steps/phases. The first step is to identify the information/assest(s) that are critical to your operation. The second step or phase is to conduct an analysis of the possible threats to what you're protecting (what you value). The third step is to conduct a review of how you might be vulnerable to the attacks identified in the previous step. The fourth step is to map out how likely your risk is given the information generated so far. And the fifth phase/step includes deploying any appropriate countermeasures.
+
+Below you will find a growing number of specific threat modeling techniques that can be applied to anyone's security situation Online.
 
 ### PASTA
 PASTA stands for Process For Attack Simulation And Threat Analysis.
@@ -124,6 +128,10 @@ The STRIDE threat model is especially useful for personal Online Operations Secu
 ## Tools
 While the strategies one develops for personal Online OpSec are critical, let's now review different tools for staying safe, private and informed for accomplishing/deploying those plans.
 
+### Antivirus
+* **[Bitdefender](https://www.bitdefender.com/)** - "*...is a global cybersecurity leader protecting over 500 million systems in more than 150 countries.*"
+* **[Malwarebytes](https://www.malwarebytes.com/)** - "*...not only stops hackers and malware, but it cleans up an infected machine better than traditional antivirus.*"
+
 ### Books
 * **The Art of Invisibility** - written by Kevin Mitnick, published on September 10th of 2019
 * **ComSec** - written by Justin Carroll, published on July 13th of 2018
@@ -155,6 +163,12 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 * **[GNU IceCat](https://www.gnu.org/software/gnuzilla/)** - "*GNUzilla is the GNU version of the Mozilla suite, and GNU IceCat is the GNU version of the Firefox browser. Its main advantage is an ethical one: it is entirely free software.*"
 * **[Tor](https://www.torproject.org/)** - "*Defend yourself against tracking and surveillance. Circumvent censorship.*"
 
+### Data Erasure
+* **[BleachBit](https://www.bleachbit.org/)** - "*...you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there.*"
+
+### Disc Encryption
+* **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - "*...is a free open source disk encryption software for Windows, Mac OSX and Linux.*"
+
 ### Email
 * **[AnonAddy](https://anonaddy.com/)** - "*...simply make up a new alias and enter that instead of your real email address.*"
 * **[Guerilla Mail](https://www.guerrillamail.com/)** - "*...gives you a disposable email address. There is no need to register, simply visit Guerrilla Mail and a random address will be given.*"
@@ -164,6 +178,9 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 
 ### Firewalls
 * **[pfSense](https://www.pfsense.org/)** - "*...is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. pfSense software, with the help of the package system, is able to provide the same functionality or more of common commercial firewalls, without any of the artificial limitations.*"
+
+### Messaging
+* **[Signal](https://signal.org/)** - "*...a cross-platform encrypted messaging service developed by the Signal Foundation and Signal Messenger LLC. It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos.*" - [Source](https://en.wikipedia.org/wiki/Signal_(software))
 
 ### Operating Systems
 * **[Arch Linux](https://www.archlinux.org/)** - "*...a Linux distribution for computers with x86-64 processors. Arch Linux adheres to five principles: simplicity, modernity, pragmatism, user centrality, and versatility.*" - [Source](https://en.wikipedia.org/wiki/Arch_Linux)
@@ -177,8 +194,10 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 ### Passwords
 * **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
 * **[KeePassX](https://www.keepassx.org/)** - "*...an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*"
+* **[KeePassXC](https://keepassxc.org/)** - "*Securely store passwords using industry standard encryption, quickly auto-type them into desktop applications, and use our browser extension to log into websites.*"
 
 ### Search Engines
+* **[CheckUsernames](https://checkusernames.com/)** - "*Check the use of your brand or username on 160 Social Networks[.]*"
 * **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*"
 * **[Qwant](https://lite.qwant.com/)** - "*...is the first search engine which protects its users freedoms and ensures that the digital ecosystem remains healthy.*"
 * **[Searx](https://searx.me/)** - "*Privacy-respecting metasearch engine[.]*"
@@ -203,6 +222,6 @@ The use of these tools, as well as the search engine listed above, is the conduc
 * **[ProtonVPN](https://protonvpn.com/)** - "*...is designed with security as the main focus, drawing upon the lessons we have learned from working with journalists and activists in the field.*"
 
 ## Conclusion
-There are a good number of reliable tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you.
+There are a good number of reliable techniques and tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you.
 
 Over the coming weeks, the information and resources found herein will continue to grow; ideally becoming a first class resource for those interested in the serious topic of personal Online OpSec. Many thanks to those who have already suggested improvements to this project.
