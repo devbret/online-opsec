@@ -195,6 +195,7 @@ While the strategies one develops for personal Online OpSec are critical, let's 
 * **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
 * **[KeePassX](https://www.keepassx.org/)** - "*...an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*"
 * **[KeePassXC](https://keepassxc.org/)** - "*Securely store passwords using industry standard encryption, quickly auto-type them into desktop applications, and use our browser extension to log into websites.*"
+* **[pass](https://www.passwordstore.org/)** - "*the standard unix password manager*"
 
 ### Search Engines
 * **[CheckUsernames](https://checkusernames.com/)** - "*Check the use of your brand or username on 160 Social Networks[.]*"
