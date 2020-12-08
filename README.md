@@ -1,7 +1,7 @@
 # Online Operations Security (OpSec)
 Threat models and tools for staying safe, private and informed while Online, used by the average person.
 
-*Until the first draft of this document is finished (sometime before 02/01/2021), it will be updated regularly.*
+*This document will be updated regularly, until it is finished on 02/01/2021; which is when [my website](https://devbret.com/) goes live.*
 
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
