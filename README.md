@@ -1,12 +1,12 @@
 # Online Operations Security (OpSec)
 Threat models and tools for staying safe, private and informed while Online, used by the average person.
 
-*This document will be updated regularly, until it is finished on 02/01/2021; which is when [my website](https://devbret.com/) goes live.*
+*This document is updated regularly, done so until it's finished on 02/01/2021; which is when [my website](https://devbret.com/) goes live.*
 
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. Online OpSec is therefore protecting what one values in relationship to using the Internet.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet.
 
 Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe.
 
@@ -161,7 +161,7 @@ Literature for understanding the larger thought-space of personal security.
 * **Survive Like a Spy** - written by Jason Hanson, published on September 8th of 2020
 
 ### Browser Extensions
-Critical browser extensions for Firefox.
+Critical browser add-ons for Firefox.
 
 * **[ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)** - "*...automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.*" (Recommended)
 * **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)** - "*When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest.*" (Recommended)
@@ -170,7 +170,7 @@ Critical browser extensions for Firefox.
 * **[Google Search Link Fix](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/)** - "*...prevents Google and Yandex search pages from modifying search result links when you click them.*"
 * **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)** - "*...a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.*" (Recommended)
 * **[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - "*Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.*" (Recommended)
-* **[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)** - "*Automatically learns to block invisible trackers.*"
+* **[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)** - "*Automatically learns to block invisible trackers.*" (Recommended)
 * **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - "*...an efficient wide-spectrum content blocker. Easy on CPU and memory.*" (Recommended)
 * **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*...forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
 
@@ -212,6 +212,8 @@ Tools for permanently deleting information on your computer.
 * **[Silence](https://silence.im/)** - "*Encrypt your SMS and MMS messages with Silence. Improve your privacy, think freely.*"
 
 ### Operating Systems
+All of the Operating Systems explored below are Linux distributions.
+
 * **[Arch Linux](https://www.archlinux.org/)** - "*...a Linux distribution for computers with x86-64 processors. Arch Linux adheres to five principles: simplicity, modernity, pragmatism, user centrality, and versatility.*" - [Source](https://en.wikipedia.org/wiki/Arch_Linux)
 * **[Debian](https://www.debian.org/)** - "*...a Linux distribution composed of free and open-source software, developed by the community-supported Debian Project, which was established by Ian Murdock on August 16, 1993.*" - [Source](https://en.wikipedia.org/wiki/Debian)
 * **[Fedora](https://getfedora.org/)** - "*...an innovative, free, and open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.*"
@@ -220,7 +222,7 @@ Tools for permanently deleting information on your computer.
 * **[Ubuntu](https://ubuntu.com/)** - "*...a Linux distribution based on Debian and mostly composed of free and open-source software.*" - [Source](https://en.wikipedia.org/wiki/Ubuntu) (Recommended)
 * **[Whonix](https://www.whonix.org/)** - "*...can anonymize everything you do online[.]*"
 
-### Passwords
+### Password Storage
 * **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
 * **[KeePassX](https://www.keepassx.org/)** - "*...an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*" (Recommended)
 * **[KeePassXC](https://keepassxc.org/)** - "*Securely store passwords using industry standard encryption, quickly auto-type them into desktop applications, and use our browser extension to log into websites.*"
@@ -228,7 +230,7 @@ Tools for permanently deleting information on your computer.
 
 ### Search Engines
 * **[CheckUsernames](https://checkusernames.com/)** - "*Check the use of your brand or username on 160 Social Networks[.]*"
-* **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*"
+* **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*" (Recommended)
 * **[Qwant](https://lite.qwant.com/)** - "*...is the first search engine which protects its users freedoms and ensures that the digital ecosystem remains healthy.*"
 * **[Searx](https://searx.me/)** - "*Privacy-respecting metasearch engine[.]*"
 * **[Startpage](https://www.startpage.com/)** - "*The world's most private search engine[.]*"
@@ -247,12 +249,14 @@ The use of these tools, as well as the search engine listed above, is the conduc
 * **[TweetDeck](https://tweetdeck.twitter.com/)** - "*...for real-time tracking, organizing, and engagement. Reach your audiences and discover the best of Twitter.*"
 
 ### VPNs
+A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network)) allows a user to, "*...send and receive data across shared or public networks as if their computing devices were directly connected to the private network.*"
+
 * **[AirVPN](https://airvpn.org/)** - "*...based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*" (Recommended)
 * **[Mullvad VPN](https://mullvad.net/)** - "*Privacy is a universasl right[.]*"
 * **[Private Internet Access](https://www.privateinternetaccess.com/)** - "*...is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet.*"
 * **[ProtonVPN](https://protonvpn.com/)** - "*...is designed with security as the main focus, drawing upon the lessons we have learned from working with journalists and activists in the field.*"
 
 ## Conclusion
-There are a healthy number of reliable techniques and dozens of powerful tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you.
+There are a healthy number of reliable techniques and dozens of powerful tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you; the "tools most fit for the average person".
 
 Over the coming weeks, the information and resources found herein will continue to grow; ideally becoming a first class resource for those interested in the serious topic of personal Online OpSec. Many thanks to those who have already suggested improvements to this project.
