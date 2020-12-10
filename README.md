@@ -6,19 +6,19 @@ Threat models and tools for staying safe, private and informed while Online, use
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in the sections below.
 
 Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe.
 
-The purpose of this document thus is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
+Thus the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
 
 ### Quintessentials
-Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed.
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each being interconnected and reliant on the others for success.
 
-The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the context of this resource.
+The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the setting of this resource.
 
 #### Safe
-To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*" However subjective, to be safe is (universally) to be guarded/gated and aware.
+To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*" However subjective, to be safe is (universally) to be gated, aware and responsive.
 
 #### Private
 To be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/)) means to be, "*...let alone, or [to have] freedom from interference or intrusion.*"
@@ -33,7 +33,7 @@ To be informed is to be aware of properties and their value(s); ideally within a
 The essence of remaining informed is the ability to quickly and flexibly scale one's awareness over whatever is of interest. Accomplished on the Internet with powerful Social Media Monitoring tools and simple techniques to enhance their usefulness.
 
 ### Adversaries
-There are many different potential threats (to what is valued) faced by the average person, in terms of their/the Online reality. And these are also important to understand before diving into threat modeling and the relevant technologies, the tools.
+There are many different potential threats (to what is valued) faced by the average person, in terms of their/the Online reality. And these risks are also important to understand before diving into threat modeling and the relevant technologies, the tools.
 
 #### Social
 Social dangers can include being tricked into unknowingly divulging personally identifiable information. Or losing friendships due to gossip.
@@ -42,10 +42,10 @@ Social dangers can include being tricked into unknowingly divulging personally i
 Technological dangers can include your computer being remotely accessed without your consent. Or one's smart home video surveillance system being illegally monitored.
 
 #### Economic
-Economic dangers can include theft of digital currencies or loss of reputation.
+Economic dangers can include theft of digital currencies or loss of a job.
 
 ### Relevancy
-The need to remain secure when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be relatively proactive to ensure effective participation.
+The need to remain secure when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
 
 Moving forward, threat models are covered first, followed by specific tools; useful extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal state indeed.
 
@@ -113,10 +113,10 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRID
 What follows are the six different threats (as outline above) that the STRIDE model examines in detail.
 
 ##### Spoofing
-Misrepresenting one's identity, whether that of a person or computer.
+Spoofing (as explained by [Forcepoint](https://www.forcepoint.com/cyber-edu/spoofing)) is the misrepresentation of one's identity when communicating, whether that be of a person or computer.
 
 ##### Tampering
-Unauthorized changes made.
+Tampering (according to [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/tamper)) refers to, "*...interfere so as to weaken or change for the worse...*"
 
 ##### Repudiation
 Leaving no trail or details of illegal or unauthroized activity.
@@ -133,8 +133,10 @@ Unauthorized expansion of abilities as a user.
 #### Conclusion
 The STRIDE threat model is especially useful for understanding one's personal Online Operations Security situation.
 
+Now that we have overviewed a number of threat models, let's take a look at the tools and technologies accesible to the average person for remaining safe, private and informed while Online.
+
 ## Tools
-While the strategies one develops for personal Online OpSec are critical, let's now review different tools for staying safe, private and informed in order to accomplish/deploy those plans.
+The tools organized below are useful for remaining secure while Online.
 
 ### Android Device Apps
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
@@ -210,6 +212,9 @@ Tools for permanently deleting information on your computer.
 ### Messaging
 * **[Signal](https://signal.org/)** - "*...a cross-platform encrypted messaging service developed by the Signal Foundation and Signal Messenger LLC. It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos.*" - [Source](https://en.wikipedia.org/wiki/Signal_(software))
 * **[Silence](https://silence.im/)** - "*Encrypt your SMS and MMS messages with Silence. Improve your privacy, think freely.*"
+
+### Mobile Device Operating Systems
+* **[GrapheneOS](https://grapheneos.org/)** - "*...is an open source privacy and security focused mobile OS with Android app compatibility.*"
 
 ### Operating Systems
 All of the Operating Systems explored below are Linux distributions.
