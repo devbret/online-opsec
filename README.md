@@ -45,9 +45,9 @@ Technological dangers can include your computer being remotely accessed without 
 Economic dangers can include theft of digital currencies or loss of a job.
 
 ### Relevancy
-The need to remain secure when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
+The need to remain secure (which is at the root of privacy, safety and remaining informed) when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
 
-Moving forward, threat models are covered first, followed by specific tools; useful extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal state indeed.
+Moving forward, threat models are covered first, followed by specific tools; extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal state indeed.
 
 ## Threat Models
 A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate any potential damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible/foreseeable future dangers therein.
@@ -57,6 +57,50 @@ The objective for deploying a threat model is to determine what can go wrong ins
 There is an underlying or common pattern among many threat models, generally consisting of five interrelated steps/phases. The first step is to identify the information/assest(s) that are critical to your operation. The second step or phase is to conduct an analysis of the possible threats to what you're protecting (what you value). The third step is to conduct a review of how you might be vulnerable to the attacks identified in the previous step. The fourth step is to map out how likely your risk is given the information generated so far. And the fifth phase/step includes deploying any appropriate countermeasures.
 
 Below you will find a growing number of specific threat modeling techniques that can be applied to anyone's security situation Online.
+
+### LINDDUN
+LINDDUN is an acronym for seven different threat categories; including linkability, identifiability, non-repudiation, detectability, disclosure of information, unawareness and non-compliance. And is carried out over six steps.
+1. Model your Data Flow Diagram (DFD)
+1. Map privacy threats to DFD elements
+1. Identify threat scenarios
+1. Prioritize threats
+1. Select suitable mitigation strategies
+1. Select corresponding Privacy Enhancing Technologies (PETs)
+
+#### Six Steps
+The six steps of the LINDDUN method explored.
+
+##### Model Your DFD
+
+##### Map Privacy Threats
+
+##### Identify Threats
+
+##### Prioritize Threats
+
+##### Select Mitigation Strategies
+
+##### Apply PETs
+
+#### Seven Threat Categories
+Let's now explore the seven different threat categories addressed by the LINDDUN model.
+
+##### Linkability
+
+##### Identifiability
+
+##### Non-Repudiation
+
+##### Detectability
+
+##### Disclosure Of Information
+
+##### Unawareness
+
+##### Non-Compliance
+
+#### Conclusion
+The LINDDUN threat model is simple and robust. It's also one of my favorite techniques for analyzing personal Online vulnerabilities.
 
 ### PASTA
 PASTA stands for Process For Attack Simulation And Threat Analysis.
@@ -136,10 +180,11 @@ The STRIDE threat model is especially useful for understanding one's personal On
 Now that we have overviewed a number of threat models, let's take a look at the tools and technologies accesible to the average person for remaining safe, private and informed while Online.
 
 ## Tools
-The tools organized below are useful for remaining secure while Online.
+The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each tool for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness.
 
 ### Android Device Apps
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
+* **[K-9 Mail](https://k9mail.app/)** - "*...is an open source email client focused on making it easy to chew through large volumes of email.*"
 
 ### Antivirus
 Reputable and effective antivirus software for Windows computers.
@@ -177,6 +222,8 @@ Critical browser add-ons for Firefox.
 * **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*...forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
 
 ### Browsers
+A browser helps the user connect to and access the Internet.
+
 * **[Brave](https://brave.com/)** - "*Secure, fast and private Web browser with Adblocker[.]*" - [Source](https://en.wikipedia.org/wiki/Firefox)
 * **[Firefox](https://www.mozilla.org/en-US/firefox/)** - "*...is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox) (Recommended)
 * **[GNU IceCat](https://www.gnu.org/software/gnuzilla/)** - "*GNUzilla is the GNU version of the Mozilla suite, and GNU IceCat is the GNU version of the Firefox browser. Its main advantage is an ethical one: it is entirely free software.*"
@@ -191,11 +238,13 @@ These are tools that one can use to verify how secure or insecure an Internet ex
 * **[IPLeak.net](https://ipleak.net/)** - "*This is the kind of information that all the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.*" (Recommended)
 
 ### Data Erasure
-Tools for permanently deleting information on your computer.
+Tools for permanently deleting data on your computer.
 
 * **[BleachBit](https://www.bleachbit.org/)** - "*...you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there.*" (Recommended)
 
 ### Disc Encryption
+A disc is one's hard drive, whether that's a standard Hard Disc Drive or a more modern Solid State Drive. And encryption (according to [Wikipedia](https://en.wikipedia.org/wiki/Encryption)) is the, "*...process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.*" So, disc encryption is therefore the process of encoding of information stored therein.
+
 * **[GPG](https://gnupg.org/)** - "*...is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories.*"
 * **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - "*...is a free open source disk encryption software for Windows, Mac OSX and Linux.*"
 
@@ -205,6 +254,10 @@ Tools for permanently deleting information on your computer.
 * **[ProtonMail](https://protonmail.com/)** - "*...an easy to use secure email service with built-in end-to-end encryption and state of the art security features. Our goal is to build an internet that respects privacy and is secure against cyberattacks.*" (Recommended)
 * **[SimpleLogin](https://simplelogin.io/)** - "*...is an open-source email alias solution to protect your email address.*"
 * **[Tutanota](https://tutanota.com/)** - "*...the world's most secure email service, easy to use and private by design.*"
+
+### Email Clients
+* **[Roundcube](https://roundcube.net/)** - "*...is a browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking.*"
+* **[Thunderbird](https://www.thunderbird.net/)** - "*...is a free email application that’s easy to set up and customize - and it’s loaded with great features!*"
 
 ### Firewalls
 * **[pfSense](https://www.pfsense.org/)** - "*...is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. pfSense software, with the help of the package system, is able to provide the same functionality or more of common commercial firewalls, without any of the artificial limitations.*" (Recommended)
@@ -234,6 +287,8 @@ All of the Operating Systems explored below are Linux distributions.
 * **[Pass](https://www.passwordstore.org/)** - "*The standard unix password manager[.]*"
 
 ### Search Engines
+A search engine (according to [Computer Hope](https://www.computerhope.com/jargon/s/searengi.htm)) is, "*...software accessed on the Internet that searches a database of information according to the user's query. The engine provides a list of results that best match what the user is trying to find*" These tools are useful for finding lots of relevant information quickly.
+
 * **[CheckUsernames](https://checkusernames.com/)** - "*Check the use of your brand or username on 160 Social Networks[.]*"
 * **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*" (Recommended)
 * **[Qwant](https://lite.qwant.com/)** - "*...is the first search engine which protects its users freedoms and ensures that the digital ecosystem remains healthy.*"
@@ -242,7 +297,7 @@ All of the Operating Systems explored below are Linux distributions.
 * **[UserSearch.org](https://usersearch.org/index.php)** - "*Find anyone online[.]*"
 
 ### Social Media And Trend Monitoring
-The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*"
+The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*" Which can be applicable to a personal context as well.
 
 * **[Boardreader](https://boardreader.com/)** - "*Forum search engine[.]*"
 * **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
