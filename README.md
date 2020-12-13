@@ -154,7 +154,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRID
 
 #### Specific Threats
 
-What follows are the six different threats (as outline above) that the STRIDE model examines in detail.
+What follows are the six different threats (as outlined above) that the STRIDE model examines in detail.
 
 ##### Spoofing
 Spoofing (as explained by [Forcepoint](https://www.forcepoint.com/cyber-edu/spoofing)) is the misrepresentation of one's identity when communicating, whether that be of a person or computer.
@@ -299,14 +299,34 @@ A search engine (according to [Computer Hope](https://www.computerhope.com/jargo
 ### Social Media And Trend Monitoring
 The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*" Which can be applicable to a personal context as well.
 
+Below you will find various tools, organized by platform/type.
+
+#### Facebook
+* **[Lookup-ID.com](https://lookup-id.com/)** - "*...helps you to find the Facebook ID for your profile or a Group.*"
+
+#### Forums
 * **[Boardreader](https://boardreader.com/)** - "*Forum search engine[.]*"
-* **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
-* **[Google Alerts](https://www.google.com/alerts)** - "*Monitor the web for interesting new content[.]*"
-* **[Google Trends](https://trends.google.com/trends/)** - "*Explore what the world is searching[.]*"
+
+#### General Purpose
 * **[Hootsuite](https://hootsuite.com/)** - "*...manage all your social media and get results with Hootsuite.*"
 * **[Social Mention](http://socialmention.com/)** - "*...a real time search platform[.]*"
+
+#### Google
+* **[Google Alerts](https://www.google.com/alerts)** - "*Monitor the web for interesting new content[.]*"
+* **[Google Trends](https://trends.google.com/trends/)** - "*Explore what the world is searching[.]*"
+
+#### Twitter
+* **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
+* **[OmniSci Tweetmap](https://www.omnisci.com/demos/tweetmap)** - "*Interactively explore millions of geo-located tweets.*" (Recommended)
+* **[SocialBearing](https://socialbearing.com/)** - "*Find, filter and sort tweets or people by engagement, influence, location, sentiment and more[.]*" (Recommended)
 * **[Trendsmap](https://www.trendsmap.com/)** - "*...the latest Twitter trending hashtags and topics from anywhere in the world. Click on a word, zoom into your area of interest, and explore.*" (Recommended)
 * **[TweetDeck](https://tweetdeck.twitter.com/)** - "*...for real-time tracking, organizing, and engagement. Reach your audiences and discover the best of Twitter.*"
+* **[TweeterID](https://tweeterid.com/)** - "*...allows you to easily look up any username (@handle) on Twitter and find out what their corresponding ID is.*"
+* **[Twiangulate](http://twiangulate.com/search/)** - "*...analyzing the connections between friends...*"
+
+#### YouTube
+* **[Watch Frame By Frame](http://www.watchframebyframe.com/)** - "*Watch YouTube and Vimeo videos frame by frame and in slow motion[.]*"
+* **[YouTube DataViewer](https://citizenevidence.amnestyusa.org/)** - "*Extract meta data[.]*"
 
 ### VPNs
 A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network)) allows a user to, "*...send and receive data across shared or public networks as if their computing devices were directly connected to the private network.*"
