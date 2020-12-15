@@ -6,9 +6,9 @@ Threat models and tools for staying safe, private and informed while Online, use
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in the sections below.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
 
-Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated as such. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe.
+Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking.
 
 Thus the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
 
@@ -26,11 +26,9 @@ To be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/))
 Online OpSec is relevant to the average person (as written by [Stuart Peck](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)) in terms of privacy as, "*There’s a saying that goes, “If you have nothing to hide, you have nothing to fear.” The reality is that everyone has something they want to hide from the general public.*" In other words, it is reliable to assume that most people value privacy to some extent, and therefore must maintain it.
 
 #### Informed
-To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*" This is access to information that you are seeking, especially if it's required.
+To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*" This is access to information that you are seeking, especially if it's required for your objective(s) to be met.
 
-To be informed is to be aware of properties and their value(s); ideally within a single dashboard.
-
-The essence of remaining informed is the ability to quickly and flexibly scale one's awareness over whatever is of interest. Accomplished on the Internet with powerful Social Media Monitoring tools and simple techniques to enhance their usefulness.
+To be informed is to be aware of properties and their value(s); ideally within a single dashboard. The essence of remaining informed is the ability to quickly and flexibly scale one's awareness over whatever is of interest. Accomplished on the Internet with powerful Social Media Monitoring tools and simple techniques to enhance their usefulness.
 
 ### Adversaries
 There are many different potential threats (to what is valued) faced by the average person, in terms of their/the Online reality. And these risks are also important to understand before diving into threat modeling and the relevant technologies, the tools.
@@ -45,7 +43,7 @@ Technological dangers can include your computer being remotely accessed without 
 Economic dangers can include theft of digital currencies or loss of a job.
 
 ### Relevancy
-The need to remain secure (which is at the root of privacy, safety and remaining informed) when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
+The need to be secure (which is at the root or a prodocut of privacy, safety and remaining informed) when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
 
 Moving forward, threat models are covered first, followed by specific tools; extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal state indeed.
 
@@ -180,7 +178,7 @@ The STRIDE threat model is especially useful for understanding one's personal On
 Now that we have overviewed a number of threat models, let's take a look at the tools and technologies accesible to the average person for remaining safe, private and informed while Online.
 
 ## Tools
-The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each tool for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness.
+The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness.
 
 ### Android Device Apps
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
@@ -193,7 +191,7 @@ Reputable and effective antivirus software for Windows computers.
 * **[Malwarebytes](https://www.malwarebytes.com/)** - "*...not only stops hackers and malware, but it cleans up an infected machine better than traditional antivirus.*"
 
 ### Books
-Literature for understanding the larger thought-space of personal security.
+Literature for understanding the larger thought-space of personal security; both Online and off.
 
 * **The Art of Invisibility** - written by Kevin Mitnick, published on September 10th of 2019
 * **ComSec** - written by Justin Carroll, published on July 13th of 2018
@@ -222,7 +220,7 @@ Critical browser add-ons for Firefox.
 * **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*...forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
 
 ### Browsers
-A browser helps the user connect to and access the Internet.
+The average Web Browser (according to [Mozilla.org](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)) enables users to go, "*...anywhere on the internet, letting you see text, images and video from anywhere in the world.*"
 
 * **[Brave](https://brave.com/)** - "*Secure, fast and private Web browser with Adblocker[.]*" - [Source](https://en.wikipedia.org/wiki/Firefox)
 * **[Firefox](https://www.mozilla.org/en-US/firefox/)** - "*...is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox) (Recommended)
@@ -230,7 +228,7 @@ A browser helps the user connect to and access the Internet.
 * **[Tor](https://www.torproject.org/)** - "*Defend yourself against tracking and surveillance. Circumvent censorship.*"
 
 ### Browser Testing
-These are tools that one can use to verify how secure or insecure an Internet experience is.
+These are tools that one can use to verify how secure or insecure an Internet experience is. Or, how much information your digital footprint contains.
 
 * **[AmIUnique](https://amiunique.org/)** - "*Learn how identifiable you are on the Internet[.]*"
 * **[BrowserLeaks](https://browserleaks.com/)** - "*...is all about browsing privacy and web browser fingerprinting. Here you will find a gallery of web technologies security testing tools that will show you what kind of personal identity data can be leaked, and how to protect yourself from this.*" (Recommended)
@@ -248,9 +246,10 @@ A disc is one's hard drive, whether that's a standard Hard Disc Drive or a more 
 * **[GPG](https://gnupg.org/)** - "*...is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories.*"
 * **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - "*...is a free open source disk encryption software for Windows, Mac OSX and Linux.*"
 
-### Email
+### Email Providers
 * **[AnonAddy](https://anonaddy.com/)** - "*...simply make up a new alias and enter that instead of your real email address.*"
 * **[Guerilla Mail](https://www.guerrillamail.com/)** - "*...gives you a disposable email address. There is no need to register, simply visit Guerrilla Mail and a random address will be given.*"
+* **[Mailfence](https://mailfence.com/)** - "*We believe that online privacy is a fundamental human right which can no longer be taken for granted so we decided that it was time to offer a service which is fully dedicated to email privacy.*"
 * **[ProtonMail](https://protonmail.com/)** - "*...an easy to use secure email service with built-in end-to-end encryption and state of the art security features. Our goal is to build an internet that respects privacy and is secure against cyberattacks.*" (Recommended)
 * **[SimpleLogin](https://simplelogin.io/)** - "*...is an open-source email alias solution to protect your email address.*"
 * **[Tutanota](https://tutanota.com/)** - "*...the world's most secure email service, easy to use and private by design.*"
@@ -270,7 +269,7 @@ A disc is one's hard drive, whether that's a standard Hard Disc Drive or a more 
 * **[GrapheneOS](https://grapheneos.org/)** - "*...is an open source privacy and security focused mobile OS with Android app compatibility.*"
 
 ### Operating Systems
-All of the Operating Systems explored below are Linux distributions.
+An Operating System (sometimes abbreviated simply as OS, when referencing [GCFGlobal](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)) is the, "*...most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language.*" All of the Operating Systems explored below are Linux distributions.
 
 * **[Arch Linux](https://www.archlinux.org/)** - "*...a Linux distribution for computers with x86-64 processors. Arch Linux adheres to five principles: simplicity, modernity, pragmatism, user centrality, and versatility.*" - [Source](https://en.wikipedia.org/wiki/Arch_Linux)
 * **[Debian](https://www.debian.org/)** - "*...a Linux distribution composed of free and open-source software, developed by the community-supported Debian Project, which was established by Ian Murdock on August 16, 1993.*" - [Source](https://en.wikipedia.org/wiki/Debian)
