@@ -4,16 +4,16 @@ Threat models and tools for staying safe, private and informed while Online, use
 *This document is updated regularly, done so until it's finished on 02/01/2021; which is when [my website](https://devbret.com/) goes live.*
 
 ## Introduction
-OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and digital worlds, both permanently intertwined with each other.
+OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" OpSec is also a paradigm, and applicable to any activity within the physical and digital worlds; both increasingly intertwined bound to the other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore proactively limiting an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore efforts made to proactively limit an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
 
-Online OpSec, in the context of everyday Internet users, is quite a serious/pressing topic and best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking.
+Online OpSec, in the context of everyday Internet users is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking.
 
 Thus the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
 
 ### Quintessentials
-Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each being interconnected and reliant on the others for success.
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each being interconnected and reliant on the others for overall success.
 
 The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the setting of this resource.
 
@@ -313,6 +313,13 @@ Below you will find various tools, organized by platform/type.
 #### Google
 * **[Google Alerts](https://www.google.com/alerts)** - "*Monitor the web for interesting new content[.]*"
 * **[Google Trends](https://trends.google.com/trends/)** - "*Explore what the world is searching[.]*"
+
+#### Reddit
+* **[Metrics For Reddit](https://frontpagemetrics.com/)** - "*...a tool for tracking statistics of 2,535,250 subreddits... ...and discovering the fastest growing communities on reddit.*"
+* **[Reddit Insights](https://www.redditinsight.com/)** - "*...an analytics suite for Reddit.com using their public API, combined with real-time data analysis and graphic visualizations of historical data.*"
+* **[Reddit Investigator](https://www.redditinvestigator.com/)** - "*...a new way to discover many things about redditors. It works just by collecting the data that reddit makes available and elaborates it to obtain some new useful infos.*"
+* **[RedditMetis](https://redditmetis.com/)** - "*...a project inspired by u/orionmelt's site SnoopSnoo. Since May 2019, the site no longer updated user info due to an API error.*"
+* **[Subreddit Stats](https://subredditstats.com/)** - "*...a bunch of different subreddit ranking lists. You can click a subreddit name to see stats (graphs, etc.) for that subreddit.*"
 
 #### Twitter
 * **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
