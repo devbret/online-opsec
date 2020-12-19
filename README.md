@@ -1,12 +1,10 @@
 # Online Operations Security (OpSec)
 Threat models and tools for staying safe, private and informed while Online, used by the average person.
 
-*This document is updated regularly, done so until it's finished on 02/01/2021; which is when [my website](https://devbret.com/) goes live.*
-
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" OpSec is also a paradigm, and applicable to any activity within the physical and digital worlds; both increasingly intertwined bound to the other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible goods too. OpSec is therefore efforts made to proactively limit an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
+The core motivation of OpSec is to protect what you value; often information, but sometimes tangible (or other intangible) goods too. OpSec is therefore efforts made to proactively limit an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
 
 Online OpSec, in the context of everyday Internet users is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking.
 
@@ -259,6 +257,8 @@ A disc is one's hard drive, whether that's a standard Hard Disc Drive or a more 
 * **[Thunderbird](https://www.thunderbird.net/)** - "*...is a free email application that’s easy to set up and customize - and it’s loaded with great features!*"
 
 ### Firewalls
+A firewall (according to [Indiana University](https://kb.iu.edu/d/aoru)) is a, "*...system designed to prevent unauthorized access to or from a private network. ... Firewalls prevent unauthorized internet users from accessing private networks connected to the internet, especially intranets.*" The purpose and useuflness of a firewall doesn't change, whether you're securing a business or a home network.
+
 * **[pfSense](https://www.pfsense.org/)** - "*...is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. pfSense software, with the help of the package system, is able to provide the same functionality or more of common commercial firewalls, without any of the artificial limitations.*" (Recommended)
 
 ### Messaging
@@ -280,6 +280,8 @@ An Operating System (sometimes abbreviated simply as OS, when referencing [GCFGl
 * **[Whonix](https://www.whonix.org/)** - "*...can anonymize everything you do online[.]*"
 
 ### Password Storage
+Password storage is accomplished with password manager software, which (referencing [WeLiveSecurity](https://www.welivesecurity.com/2020/06/26/what-is-password-manager-why-is-it-useful/)) is a type of, "*application specifically designed to store your login details in an encrypted vault and to generate complex passwords for you[.]*"
+
 * **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
 * **[KeePassX](https://www.keepassx.org/)** - "*...an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*" (Recommended)
 * **[KeePassXC](https://keepassxc.org/)** - "*Securely store passwords using industry standard encryption, quickly auto-type them into desktop applications, and use our browser extension to log into websites.*"
