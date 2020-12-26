@@ -4,7 +4,7 @@ Threat models and tools for staying safe, private and informed while Online, use
 ## Introduction
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" OpSec is also a paradigm, and applicable to any activity within the physical and digital worlds; both increasingly intertwined bound to the other.
 
-The core motivation of OpSec is to protect what you value; often information, but sometimes tangible (or other intangible) goods too. OpSec is therefore efforts made to proactively limit an attacker's ability to remove value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
+The core motivation of OpSec is to protect what you value; often information or state, but sometimes tangible (or other intangible) goods too. OpSec is therefore any proactive efforts made to limit an attacker's ability to remove said value from you, for whatever their purposes. And Online OpSec is protecting what one values in relationship to using the Internet, all of which we explore in detail throughout the sections below.
 
 Online OpSec, in the context of everyday Internet users is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking.
 
@@ -41,14 +41,14 @@ Technological dangers can include your computer being remotely accessed without 
 Economic dangers can include theft of digital currencies or loss of a job.
 
 ### Relevancy
-The need to be secure (which is at the root or a prodocut of privacy, safety and remaining informed) when using the Internet (when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
+The need to be secure (which is at the root or a product of privacy, safety and remaining informed) when using the Internet (in other words, when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
 
-Moving forward, threat models are covered first, followed by specific tools; extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal state indeed.
+Moving forward, threat models are covered first, followed by specific tools; extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal asset indeed.
 
 ## Threat Models
-A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate any potential damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible/foreseeable future dangers therein.
+A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate any potential damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible or foreseeable future dangers therein.
 
-The objective for deploying a threat model is to determine what can go wrong inside a given set of variables; providing the modeler tactical advantages that might have otherwise been missed from lack of perspective and preparation.
+The objective for deploying a threat model is to determine what can go wrong inside a given set of variables; providing the modeler tactical advantages that might have otherwise been missed from lack of perspective and preparation. The use of threat models is akin to doing one's homework on probable realities. Best done (according to [Martin Fowler](https://martinfowler.com/articles/agile-threat-modelling.html#ThreatModellinglittleAndOften)) a little bit at a time, but frequently.
 
 There is an underlying or common pattern among many threat models, generally consisting of five interrelated steps/phases. The first step is to identify the information/assest(s) that are critical to your operation. The second step or phase is to conduct an analysis of the possible threats to what you're protecting (what you value). The third step is to conduct a review of how you might be vulnerable to the attacks identified in the previous step. The fourth step is to map out how likely your risk is given the information generated so far. And the fifth phase/step includes deploying any appropriate countermeasures.
 
@@ -64,19 +64,25 @@ LINDDUN is an acronym for seven different threat categories; including linkabili
 1. Select corresponding Privacy Enhancing Technologies (PETs)
 
 #### Six Steps
-The six steps of the LINDDUN method explored.
+The six steps of the LINDDUN method are explored below.
 
 ##### Model Your DFD
+Understand how your system is organized, using Data Flow Diagrams.
 
 ##### Map Privacy Threats
+While relying on DFDs, investigate each element for possible threats.
 
 ##### Identify Threats
+Once a threat is identified, make a note of it.
 
 ##### Prioritize Threats
+Determine which threats are most pressing.
 
 ##### Select Mitigation Strategies
+Resolve and overcome each threat by choosing the correct solution(s).
 
 ##### Apply PETs
+Include the use of privacy enhancing technologies (PETs) in your total approach.
 
 #### Seven Threat Categories
 Let's now explore the seven different threat categories addressed by the LINDDUN model.
@@ -233,6 +239,7 @@ These are tools that one can use to verify how secure or insecure an Internet ex
 * **[Cover Your Tracks](https://coveryourtracks.eff.org/)** - "*Test your browser to see how well you are protected from tracking and fingerprinting.*"
 * **[IPLeak.net](https://ipleak.net/)** - "*This is the kind of information that all the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.*" (Recommended)
 
+
 ### Data Erasure
 Tools for permanently deleting data on your computer.
 
@@ -255,6 +262,11 @@ A disc is one's hard drive, whether that's a standard Hard Disc Drive or a more 
 ### Email Clients
 * **[Roundcube](https://roundcube.net/)** - "*...is a browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking.*"
 * **[Thunderbird](https://www.thunderbird.net/)** - "*...is a free email application that’s easy to set up and customize - and it’s loaded with great features!*"
+
+### Encrypted Cloud Storage
+* **[pCloud](https://www.pcloud.com/)** - "*...we're providing the world with a comprehensive easy-to-use cloud storage solution for individuals and businesses alike.*"
+* **[Sync](https://www.sync.com/)** - "*...protects your privacy with end-to-end encryption — ensuring that your data in the cloud is safe, secure and 100% private.*"
+* **[Tresorit](https://tresorit.com/)** - "*...is the ultra-secure place in the cloud to store, sync, and share files within your organization and with external partners.*"
 
 ### Firewalls
 A firewall (according to [Indiana University](https://kb.iu.edu/d/aoru)) is a, "*...system designed to prevent unauthorized access to or from a private network. ... Firewalls prevent unauthorized internet users from accessing private networks connected to the internet, especially intranets.*" The purpose and useuflness of a firewall doesn't change, whether you're securing a business or a home network.
