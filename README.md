@@ -299,6 +299,9 @@ Password storage is accomplished with password manager software, which (referenc
 * **[KeePassXC](https://keepassxc.org/)** - "*Securely store passwords using industry standard encryption, quickly auto-type them into desktop applications, and use our browser extension to log into websites.*"
 * **[Pass](https://www.passwordstore.org/)** - "*The standard unix password manager[.]*"
 
+### Prepaid Wireless Providers
+* **[Tracfone](https://www.tracfone.com/)** - "*...is an American prepaid, no-contract mobile phone provider.*" - [Source](https://en.wikipedia.org/wiki/TracFone_Wireless)
+
 ### Search Engines
 A search engine (according to [Computer Hope](https://www.computerhope.com/jargon/s/searengi.htm)) is, "*...software accessed on the Internet that searches a database of information according to the user's query. The engine provides a list of results that best match what the user is trying to find*" These tools are useful for finding lots of relevant information quickly.
 
