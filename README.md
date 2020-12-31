@@ -85,24 +85,31 @@ Resolve and overcome each threat by choosing the correct solution(s).
 Include the use of privacy enhancing technologies (PETs) in your total approach.
 
 #### Seven Threat Categories
-Let's now explore the seven different threat categories addressed by the LINDDUN model.
+Let's now explore the seven different threat categories addressed by the LINDDUN model, with help from the [LINDDUN](https://www.linddun.org/linddun) organization; as quoted below.
 
 ##### Linkability
+When an attacker can, "*...link two items of interest without knowing the identity of the data subject(s) involved.*"
 
 ##### Identifiability
+When an attacker can, "*...identify a data subject... ...through an item of interest.*"
 
 ##### Non-Repudiation
+When a, "*...data subject is unable to deny a claim[.]*"
 
 ##### Detectability
+When an attacker can, "*...distinguish whether an item of interest about a data subject exists or not[.]*"
 
 ##### Disclosure Of Information
+When an attacker can, "*...learn the content of an item of interest about a data subject.*"
 
 ##### Unawareness
+When a, "*...data subject is unaware of the collection, processing, storage, or sharing activities... ...of the data subject’s personal data.*"
 
 ##### Non-Compliance
+This is the, "*...processing, storage, or handling of personal data is not compliant with [standards.]*"
 
 #### Conclusion
-The LINDDUN threat model is simple and robust. It's also one of my favorite techniques for analyzing personal Online vulnerabilities.
+The LINDDUN threat model is simple and robust. It's also one of my favorite techniques for analyzing personal Online vulnerabilities; primarily because it produces strong and distinct results.
 
 ### PASTA
 PASTA stands for Process For Attack Simulation And Threat Analysis.
@@ -179,10 +186,10 @@ Unauthorized expansion of abilities as a user.
 #### Conclusion
 The STRIDE threat model is especially useful for understanding one's personal Online Operations Security situation.
 
-Now that we have overviewed a number of threat models, let's take a look at the tools and technologies accesible to the average person for remaining safe, private and informed while Online.
+Now that we have overviewed a number of threat models, let's take a look at the best tools and technologies accesible to the average person for remaining safe, private and informed while Online.
 
 ## Tools
-The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness.
+The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness. There are more powerful tools available, but those can be considered expert level technologies, therefore unnecessary or outside the scope of this document.
 
 ### Android Device Apps
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
