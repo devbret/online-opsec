@@ -219,6 +219,7 @@ Literature for understanding the larger thought-space of personal security; both
 ### Browser Extensions
 Critical browser add-ons for Firefox.
 
+* **[Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/)** - "*Delete browsing data directly from the browser toolbar. Clear cookies, history and cache with a single click.*" (Recommended)
 * **[ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)** - "*...automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.*" (Recommended)
 * **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)** - "*When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest.*" (Recommended)
 * **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - "*...prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.*"
@@ -365,6 +366,11 @@ A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.
 * **[Mullvad VPN](https://mullvad.net/)** - "*Privacy is a universasl right[.]*"
 * **[Private Internet Access](https://www.privateinternetaccess.com/)** - "*...is the leading VPN Service provider specializing in secure, encrypted VPN tunnels which create several layers of privacy and security providing you safety on the internet.*"
 * **[ProtonVPN](https://protonvpn.com/)** - "*...is designed with security as the main focus, drawing upon the lessons we have learned from working with journalists and activists in the field.*"
+
+### Web Services Account Deletion
+Resources for helping Internet users permanently delete their accounts with various Web Service(s) providers, such as Google or Netflix.
+
+* **[JustDeleteMe](https://justdeleteme.xyz/)** - "*A directory of direct links to delete your account from web services.*"
 
 ## Conclusion
 There are a healthy number of reliable techniques and dozens of powerful tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you; the "tools most fit for the average person".
