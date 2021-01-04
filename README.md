@@ -192,11 +192,13 @@ Now that we have overviewed a number of threat models, let's take a look at the 
 The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and effectiveness. There are more powerful tools available, but those can be considered expert level technologies, therefore unnecessary or outside the scope of this document.
 
 ### Android Device Apps
+Applications for the Android mobile Operating System.
+
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
 * **[K-9 Mail](https://k9mail.app/)** - "*...is an open source email client focused on making it easy to chew through large volumes of email.*"
 
 ### Antivirus
-Reputable and effective antivirus software for Windows computers.
+Reputable and effective antivirus software for Windows computer. Which can be understood (by referring to [TechTerms](https://techterms.com/definition/antivirus)) as a, "*...type of utility used for scanning and removing viruses from your computer.*"
 
 * **[Bitdefender](https://www.bitdefender.com/)** - "*...is a global cybersecurity leader protecting over 500 million systems in more than 150 countries.*" (Recommended)
 * **[Malwarebytes](https://www.malwarebytes.com/)** - "*...not only stops hackers and malware, but it cleans up an infected machine better than traditional antivirus.*"
@@ -217,7 +219,7 @@ Literature for understanding the larger thought-space of personal security; both
 * **Survive Like a Spy** - written by Jason Hanson, published on September 8th of 2020
 
 ### Browser Extensions
-Critical browser add-ons for Firefox.
+Critical security and privacy add-ons for the Firefox Browser.
 
 * **[Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/)** - "*Delete browsing data directly from the browser toolbar. Clear cookies, history and cache with a single click.*" (Recommended)
 * **[ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)** - "*...automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.*" (Recommended)
@@ -232,7 +234,7 @@ Critical browser add-ons for Firefox.
 * **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*...forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
 
 ### Browsers
-The average Web Browser (according to [Mozilla.org](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)) enables users to go, "*...anywhere on the internet, letting you see text, images and video from anywhere in the world.*"
+The average Web Browser (according to [Mozilla.org](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)) enables users to go, "*...anywhere on the internet, letting you see text, images and video from anywhere in the world.*" The modern Browsers of today's Web are able to do much more than view text, images and videos; including text-to-voice translation, secure Online shopping and the inclusion of extensions/add-ons.
 
 * **[Brave](https://brave.com/)** - "*Secure, fast and private Web browser with Adblocker[.]*" - [Source](https://en.wikipedia.org/wiki/Firefox)
 * **[Firefox](https://www.mozilla.org/en-US/firefox/)** - "*...is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox) (Recommended)
@@ -240,7 +242,7 @@ The average Web Browser (according to [Mozilla.org](https://www.mozilla.org/en-U
 * **[Tor](https://www.torproject.org/)** - "*Defend yourself against tracking and surveillance. Circumvent censorship.*"
 
 ### Browser Testing
-These are tools that one can use to verify how secure or insecure an Internet experience is. Or, how much information your digital footprint contains.
+These are tools that Internet users can use to verify how secure or insecure an Web experience is. Or, how much information your digital footprint, inside a given moment, contains or expresses.
 
 * **[AmIUnique](https://amiunique.org/)** - "*Learn how identifiable you are on the Internet[.]*"
 * **[BrowserLeaks](https://browserleaks.com/)** - "*...is all about browsing privacy and web browser fingerprinting. Here you will find a gallery of web technologies security testing tools that will show you what kind of personal identity data can be leaked, and how to protect yourself from this.*" (Recommended)
@@ -289,7 +291,7 @@ A firewall (according to [Indiana University](https://kb.iu.edu/d/aoru)) is a, "
 * **[GrapheneOS](https://grapheneos.org/)** - "*...is an open source privacy and security focused mobile OS with Android app compatibility.*"
 
 ### Operating Systems
-An Operating System (sometimes abbreviated simply as OS, when referencing [GCFGlobal](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)) is the, "*...most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language.*" All of the Operating Systems explored below are Linux distributions.
+An Operating System (sometimes abbreviated simply as "OS", when referencing [GCFGlobal](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)) is the, "*...most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language.*" All of the Operating Systems explored below are Linux distributions.
 
 * **[Arch Linux](https://www.archlinux.org/)** - "*...a Linux distribution for computers with x86-64 processors. Arch Linux adheres to five principles: simplicity, modernity, pragmatism, user centrality, and versatility.*" - [Source](https://en.wikipedia.org/wiki/Arch_Linux)
 * **[Debian](https://www.debian.org/)** - "*...a Linux distribution composed of free and open-source software, developed by the community-supported Debian Project, which was established by Ian Murdock on August 16, 1993.*" - [Source](https://en.wikipedia.org/wiki/Debian)
@@ -311,7 +313,7 @@ Password storage is accomplished with password manager software, which (referenc
 * **[Tracfone](https://www.tracfone.com/)** - "*...is an American prepaid, no-contract mobile phone provider.*" - [Source](https://en.wikipedia.org/wiki/TracFone_Wireless)
 
 ### Search Engines
-A search engine (according to [Computer Hope](https://www.computerhope.com/jargon/s/searengi.htm)) is, "*...software accessed on the Internet that searches a database of information according to the user's query. The engine provides a list of results that best match what the user is trying to find*" These tools are useful for finding lots of relevant information quickly.
+A search engine (according to [Computer Hope](https://www.computerhope.com/jargon/s/searengi.htm)) is, "*...software accessed on the Internet that searches a database of information according to the user's query. The engine provides a list of results that best match what the user is trying to find*" These tools are useful for finding lots of relevant information quickly; or, scaling the Internet with ease.
 
 * **[CheckUsernames](https://checkusernames.com/)** - "*Check the use of your brand or username on 160 Social Networks[.]*"
 * **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*" (Recommended)
@@ -321,9 +323,9 @@ A search engine (according to [Computer Hope](https://www.computerhope.com/jargo
 * **[UserSearch.org](https://usersearch.org/index.php)** - "*Find anyone online[.]*"
 
 ### Social Media And Trend Monitoring
-The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*" Which can be applicable to a personal context as well.
+The use of these tools, as well as the search engine listed above, is the conducting of open-source intelligence (OSINT) gathering. OSINT is (referring now to [Wikipedia](https://en.wikipedia.org/wiki/Open-source_intelligence)) a, "*...methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context.*" Which can be applicable to a personal context as well, simply by intending for it to.
 
-Below you will find various tools, organized by platform/type.
+Below you will find various Social Media and trend monitoring tools, organized by platform/type.
 
 #### Facebook
 * **[Lookup-ID.com](https://lookup-id.com/)** - "*...helps you to find the Facebook ID for your profile or a Group.*"
@@ -360,7 +362,7 @@ Below you will find various tools, organized by platform/type.
 * **[YouTube DataViewer](https://citizenevidence.amnestyusa.org/)** - "*Extract meta data[.]*"
 
 ### VPNs
-A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network)) allows a user to, "*...send and receive data across shared or public networks as if their computing devices were directly connected to the private network.*"
+A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network)) allows a user to safely, "*...send and receive data across shared or public networks as if their computing devices were directly connected to the private network.*" All of which is accomplished with strong encryption.
 
 * **[AirVPN](https://airvpn.org/)** - "*...based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*" (Recommended)
 * **[Mullvad VPN](https://mullvad.net/)** - "*Privacy is a universasl right[.]*"
@@ -375,4 +377,4 @@ Resources for helping Internet users permanently delete their accounts with vari
 ## Conclusion
 There are a healthy number of reliable techniques and dozens of powerful tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you; the "tools most fit for the average person".
 
-Over the coming weeks, the information and resources found herein will continue to grow; ideally becoming a first class resource for those interested in the serious topic of personal Online OpSec. Many thanks to those who have already suggested improvements to this project.
+Over the coming months, the information and resources found herein will continue to grow; ideally becoming a first class resource for those interested in the serious topic of personal Online OpSec. Many thanks to those who have already suggested improvements to this project.
