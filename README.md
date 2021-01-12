@@ -16,20 +16,22 @@ Before diving into the world(s) of Online OpSec, it's important to understand wh
 The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the setting of this resource.
 
 #### Safe
-To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*" However subjective, to be safe is (universally) to be gated, aware and responsive.
+To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*" However subjective, to be safe is (universally) to be gated, aware and responsive; which is best accomplished and sustained through cooperation with an interconnected community of like-minded people.
 
 #### Private
-To be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/)) means to be, "*...let alone, or [to have] freedom from interference or intrusion.*"
+To have privacy or to be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/)) means to be, "*...let alone, or [to have] freedom from interference or intrusion.*" Something is considered to be private when it relates to or impacts only a select few parties.
 
-Online OpSec is relevant to the average person (as written by [Stuart Peck](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)) in terms of privacy as, "*There’s a saying that goes, “If you have nothing to hide, you have nothing to fear.” The reality is that everyone has something they want to hide from the general public.*" In other words, it is reliable to assume that most people value privacy to some extent, and therefore must maintain it.
+Online OPSEC is relevant to the average person (as written by [Stuart Peck](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)) in terms of privacy as, '*There’s a saying that goes, “If you have nothing to hide, you have nothing to fear.” The reality is that everyone has something they want to hide from the general public.*' In other words, it is reliable to assume that most people value privacy to some extent, and therefore must maintain it.
 
 #### Informed
-To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*" This is access to information that you are seeking, especially if it's required for your objective(s) to be met.
+To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*" This is also the state of access to information one has that you are seeking, even more so if it's required for your objective(s) to be met.
 
 To be informed is to be aware of properties and their value(s); ideally within a single dashboard. The essence of remaining informed is the ability to quickly and flexibly scale one's awareness over whatever is of interest. Accomplished on the Internet with powerful Social Media Monitoring tools and simple techniques to enhance their usefulness.
 
 ### Adversaries
-There are many different potential threats (to what is valued) faced by the average person, in terms of their/the Online reality. And these risks are also important to understand before diving into threat modeling and the relevant technologies, the tools.
+There are many different potential threats (to what is valued) or adversaries faced by the average person, in terms of their/the Online reality. And these risks are also important to understand before diving into threat modeling and the relevant technologies, the tools. 
+
+An adversary (according to [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/adversary)) is defined as, "*having or involving antagonistic parties or opposing interests[.]*" Along those lines, below we review three types of adversaries; which are social, technological and economic.
 
 #### Social
 Social dangers can include being tricked into unknowingly divulging personally identifiable information. Or losing friendships due to gossip.
@@ -41,7 +43,7 @@ Technological dangers can include your computer being remotely accessed without 
 Economic dangers can include theft of digital currencies or loss of a job.
 
 ### Relevancy
-The need to be secure (which is at the root or a product of privacy, safety and remaining informed) when using the Internet (in other words, when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation.
+The need to be secure (which is at the root or a product of privacy, safety and remaining informed) when using the Internet (in other words, when creating a digital footprint) is relevant to everyone; regardless of who, what, why, how, where and/or when one is. This is a consequence of and opportunity for/from an open Internet. Savvy users must thus be proactive to ensure effective participation, as threats abound.
 
 Moving forward, threat models are covered first, followed by specific tools; extensions in the pursuit of reaching for that meta (yet granular) agency, an ideal asset indeed.
 
