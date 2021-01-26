@@ -11,7 +11,7 @@ Online OpSec, in the context of everyday Internet users is quite a serious/press
 Thus the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return. Above all, please continue doing your own research to validate anything and everything herein.
 
 ### Quintessentials
-Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each being interconnected and reliant on the others for overall, personal success.
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each interconnected and reliant on the others for overall, personal success.
 
 The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits or variables. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the setting of this resource.
 
@@ -228,6 +228,7 @@ Critical security and privacy add-ons for the Firefox Browser.
 * **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)** - "*When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest.*" (Recommended)
 * **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - "*...prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.*"
 * **[Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** - "*...lets you keep parts of your online life separated into color-coded tabs that preserve your privacy.*"
+* **[Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)** - "*Block ads, stop trackers and speed up websites.*"
 * **[Google Search Link Fix](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/)** - "*...prevents Google and Yandex search pages from modifying search result links when you click them.*"
 * **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)** - "*...a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.*" (Recommended)
 * **[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - "*Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.*" (Recommended)
