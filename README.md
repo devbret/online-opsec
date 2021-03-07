@@ -2,16 +2,16 @@
 Threat models and tools for staying safe, private and informed while Online, used by the average person.
 
 ## Introduction
-OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" OpSec is also a paradigm, and applicable to any activity within the physical and digital worlds; both increasingly intertwined and bound to the other.
+OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" OpSec is also a paradigm or a mindset, and applicable to any activity within the physical and digital worlds; both increasingly intertwined with and bound to the other.
 
 The core motivation of OpSec is to protect what you value; often information or state, but sometimes tangible (or other intangible) goods too. OpSec is therefore any proactive efforts made to limit an attacker's ability to remove said value from you, for whatever their and/or your purposes. And Online OpSec is protecting what one values in relationship to coexisting with and using the Internet, all of which we explore in detail throughout the sections below.
 
-Online OpSec, in the context of everyday Internet users is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies carefully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking and (more submliminal) dreaming, during the day and night.
+Online OpSec, in the context of everyday Internet users is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies successfully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking and (more submliminal) dreaming, during the day and/or night.
 
-Thus the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source software, or FOSS) for staying safe, private and informed while Online. If a resource mentioned inside this document does require one to spend money for access, said tool is assuredly both low-cost and high-return. Above all, please continue doing your own research to validate anything and everything herein.
+Therefore the purpose of this document is to organize useful context (in the form of information about threat modeling) and powerful tools (most of which are free and open source software, or FOSS) for staying safe, private and informed while Online. If a resource mentioned inside this document does require one to spend money for access, said tool is assuredly both low-cost and high-return. Above all, please continue doing your own research to validate anything and everything herein.
 
 ### Quintessentials
-Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed. Each interconnected and reliant on the others for overall, personal success.
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value. We value specific states that encourage human wellness; those being safety, privacy and access to information. Or being safe, private and informed; again, each quality is reliant on the others for overall, personal success.
 
 The substance of this document can help the individual maintain these conditions Online in conjunction with other states or pursuits or variables. To help explain, below is an overview of what *safe*, *private* and *informed* mean in the setting of this resource.
 
@@ -188,7 +188,7 @@ Unauthorized expansion of abilities as a user.
 #### Conclusion
 The STRIDE threat model is especially useful for understanding one's personal Online Operations Security situation.
 
-Now that we have overviewed a number of threat models, let's take a look at the best tools and technologies accesible to the average person for remaining safe, private and informed while Online.
+Now that we have overviewed a few different threat models as examples, let's take a look at the best tools and technologies accesible to the average person for remaining safe, private and informed while Online.
 
 ## Tools
 The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and overwhleming effectiveness. There are more powerful tools available, but those are considered to be expert level technologies, therefore unnecessary or outside the scope of this document.
@@ -198,6 +198,7 @@ Applications for the Android mobile Operating System.
 
 * **[Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission)** - "*...gives you the ability to grant permissions temporarily. Want to tag a location or take a photo, but don't want that app to be able to use the camera or get your location whenever it wants? Bouncer gives you exactly that.*"
 * **[K-9 Mail](https://k9mail.app/)** - "*...is an open source email client focused on making it easy to chew through large volumes of email.*"
+* **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android)** - "*...a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world.*"
 
 ### Antivirus
 Reputable and effective antivirus software for Windows computer. Which can be understood (by referring to [TechTerms](https://techterms.com/definition/antivirus)) as a, "*...type of utility used for scanning and removing viruses from your computer.*"
@@ -376,6 +377,11 @@ A VPN or Virtual Private Network (according to [Wikipedia](https://en.wikipedia.
 Resources for helping Internet users permanently delete their accounts with various Web Service(s) providers, such as Google or Netflix.
 
 * **[JustDeleteMe](https://justdeleteme.xyz/)** - "*A directory of direct links to delete your account from web services.*"
+
+## Hybridization
+Understanding what threat models are, or how to use certain tools is fine. But let's now look at the fusion of these two assets (threat models and digital technologies) into one approach, intended to create a hybrid model for practicing effective personal Internet security by the average person.
+
+When first learning what threat models are or how to use different tools, it's important to step back and look at the bigger picture; as not only do these philosophies and technologies work, but they work better together.
 
 ## Conclusion
 There are a healthy number of reliable techniques and dozens of powerful tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you; the "tools most fit for the average person".
