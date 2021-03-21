@@ -6,7 +6,7 @@ Threat models and tools for staying safe, private and informed while Online, use
 
 OpSec or Operations Security, originally introduced by the United States Military during the Vietnam War, can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "_...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information._" OpSec is also a paradigm or a mindset, and applicable to any activity within the physical and digital worlds; both increasingly intertwined with and bound to the other.
 
-The core motivation of OpSec is to protect what you value; often information or state, but sometimes tangible (or other intangible) goods too. OpSec is therefore any proactive efforts made to limit an attacker's ability to remove said value from you, for whatever their and/or your purposes. Online OpSec is protecting what one values in relationship to coexisting with and using the Internet, all of which we explore in detail throughout the sections below.
+The core motivation of OpSec is to protect what you value; often information or state, but sometimes tangible (or other intangible) assets too. OpSec is therefore any proactive efforts made to limit an attacker's ability to remove said value from you, for whatever their and/or your purposes. Online OpSec is protecting what one values in relationship to coexisting with and using the Internet, all of which we explore in detail throughout the sections below.
 
 Online OpSec (in the context of everyday Internet users) is quite a serious/pressing topic, one best to be treated responsibly and with care. Thankfully, in a way similar to how large companies successfully deploy DevOps, individuals can apply Online OpSec tools and techniques to reduce their own risks; perhaps even more effectively and immediately, which is important to observe. Ideally Online OpSec becomes integrated into one's lifestyle choices, even your conscious thinking and (more submliminal) dreaming, during the day and/or night.
 
@@ -137,11 +137,11 @@ When a, "_...data subject is unaware of the collection, processing, storage, or 
 
 ##### Non-Compliance
 
-This is the, "_...processing, storage, or handling of personal data is not compliant with [standards.]_"
+This is the, "_...processing, storage, or handling of personal data is not compliant with standards._"
 
 #### Conclusion
 
-The LINDDUN threat model is simple and robust. It's also one of my favorite techniques for analyzing personal Online vulnerabilities; primarily because it produces strong and distinct results.
+The LINDDUN threat modeling technique is simple and robust. It's also one of my favorite techniques for analyzing personal Online vulnerabilities; primarily because it produces strong and distinct results.
 
 ### PASTA
 
@@ -159,7 +159,7 @@ There are seven stages involved in the PASTA model.
 
 #### Seven Phases
 
-The seven phases of PASTA explained.
+The seven phases of PASTA are explained below.
 
 ##### Define Objectives
 
