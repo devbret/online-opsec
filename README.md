@@ -242,7 +242,7 @@ Now that we have overviewed a few different threat models as examples, let's tak
 
 ## Tools
 
-The tools organized below are useful for remaining secure while Online. Special attention has been given to the overall usefulness of each utlity for the average person. In other words, most of the resources listed below are picked for their simplicity and overwhleming effectiveness. There are more powerful tools available, but those are considered to be expert level technologies, therefore unnecessary or outside the scope of this document.
+The tools organized below are effective for remaining secure, private and informed while Online. Special attention has been given to the overall usefulness of each utility for the average person. In other words, most of the resources listed below are picked for their simplicity and overwhleming effectiveness. There are more powerful tools available, but those are considered to be expert level technologies, therefore unnecessary or outside the scope of this document.
 
 ### Android Device Apps
 
@@ -458,7 +458,7 @@ Resources for helping Internet users permanently delete their accounts with vari
 
 ## Hybridization
 
-Understanding what threat models are, or how to use certain tools is fine. But let's now look at the fusion of these two assets (threat models and digital technologies) into one approach, intended to create a hybrid model for practicing effective personal Internet security by the average person.
+Understanding what threat models are, or how to use certain tools is fine. But let's now look at the fusion of these two assets (threat models and digital technologies) into one approach, intended to create a hybrid model for practicing effective individual Internet security by the average person.
 
 When first learning what threat models are or how to use different tools, it's important to step back and look at the bigger picture; as not only do these philosophies and technologies work, but they work better together.
 
